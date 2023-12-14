@@ -11,5 +11,11 @@
       "src": "/(.*)",
       "dest": "/"
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/docs/(.*)",
+      "destination": "https://api-xiaohan.apifox.cn"
+    }
   ]
 }
