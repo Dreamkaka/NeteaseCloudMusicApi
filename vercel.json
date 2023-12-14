@@ -9,10 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/"
+      "dest": "/api"
     }
-    {
-      "src": "/docs",
-      "dest": "https://api-xiaohan.apifox.cn"
-    }
+
   ],
