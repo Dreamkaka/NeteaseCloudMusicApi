@@ -12,7 +12,7 @@
       "dest": "/"
     }
     {
-      "src": "/docs".
+      "src": "/docs",
       "dest": "https://api-xiaohan.apifox.cn"
     }
   ],
