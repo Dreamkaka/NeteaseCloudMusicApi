@@ -11,11 +11,8 @@
       "src": "/(.*)",
       "dest": "/"
     }
-  ],
-  "rewrites": [
     {
-      "source": "/docs/(.*)",
-      "destination": "https://api-xiaohan.apifox.cn"
+      "src": "/docs".
+      "dest": "https://api-xiaohan.apifox.cn"
     }
-  ]
-}
+  ],
