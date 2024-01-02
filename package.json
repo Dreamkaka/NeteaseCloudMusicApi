@@ -1,6 +1,6 @@
 {
   "name": "NeteaseCloudMusicApi",
-  "version": "4.13.8",
+  "version": "4.14.0",
   "description": "网易云音乐 NodeJS 版 API",
   "scripts": {
     "start": "node app.js",
@@ -8,9 +8,9 @@
     "lint": "eslint \"**/*.{js,ts}\"",
     "lint-fix": "eslint --fix \"**/*.{js,ts}\"",
     "prepare": "husky install",
-    "pkgwin": "pkg . -t node14-win-x64 -C GZip -o bin/app --no-bytecode",
-    "pkglinux": "pkg . -t node14-linux-x64 -C GZip -o bin/app --no-bytecode",
-    "pkgmacos": "pkg . -t node14-macos-x64 -C GZip -o bin/app --no-bytecode"
+    "pkgwin": "pkg . -t node18-win-x64 -C GZip -o bin/app --no-bytecode",
+    "pkglinux": "pkg . -t node18-linux-x64 -C GZip -o bin/app --no-bytecode",
+    "pkgmacos": "pkg . -t node18-macos-x64 -C GZip -o bin/app --no-bytecode"
   },
   "bin": "./app.js",
   "pkg": {
