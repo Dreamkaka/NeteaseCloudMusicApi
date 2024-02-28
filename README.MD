@@ -5,10 +5,58 @@
 <p>
 <a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/npm/v/NeteaseCloudMusicApi.svg" alt="Version"></a>
 <a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/npm/l/NeteaseCloudMusicApi.svg" alt="License"></a>
-<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/david/dev/binaryify/NeteaseCloudMusicApi.svg" alt="devDependencies" ></a>
-<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/david/binaryify/NeteaseCloudMusicApi.svg" alt="devDependencies" ></a>
 <a href="https://codeclimate.com/github/Binaryify/NeteaseCloudMusicApi"><img src="https://codeclimate.com/github/Binaryify/NeteaseCloudMusicApi/badges/gpa.svg" /></a>
 </p>
+
+
+# 声明
+
+仅供学习使用，请在24个任意时间单位内删除
+
+使用中仅限于围绕[歌手](https://music.163.com/#/artist?id=1019952) [歌曲](https://music.163.com/#/song?id=29534449) 进行创作
+
+
+```中华人民共和国著作权法 直接说明
+第二十四条　在下列情况下使用作品，可以不经著作权人许可，不向其支付报酬，但应当指明作者姓名或者名称、作品名称，并且不得影响该作品的正常使用，也不得不合理地损害著作权人的合法权益：
+
+*（一）为个人学习、研究或者欣赏，使用他人已经发表的作品；
+
+*（二）为介绍、评论某一作品或者说明某一问题，在作品中适当引用他人已经发表的作品；
+
+（三）为报道新闻，在报纸、期刊、广播电台、电视台等媒体中不可避免地再现或者引用已经发表的作品；
+
+（四）报纸、期刊、广播电台、电视台等媒体刊登或者播放其他报纸、期刊、广播电台、电视台等媒体已经发表的关于政治、经济、宗教问题的时事性文章，但著作权人声明不许刊登、播放的除外；
+
+（五）报纸、期刊、广播电台、电视台等媒体刊登或者播放在公众集会上发表的讲话，但作者声明不许刊登、播放的除外；
+
+*（六）为学校课堂教学或者科学研究，翻译、改编、汇编、播放或者少量复制已经发表的作品，供教学或者科研人员使用，但不得出版发行；
+
+（七）国家机关为执行公务在合理范围内使用已经发表的作品；
+
+*（八）图书馆、档案馆、纪念馆、博物馆、美术馆、文化馆等为陈列或者保存版本的需要，复制本馆收藏的作品；
+
+*（九）免费表演已经发表的作品，该表演未向公众收取费用，也未向表演者支付报酬，且不以营利为目的；
+
+（十）对设置或者陈列在公共场所的艺术作品进行临摹、绘画、摄影、录像；
+
+（十一）将中国公民、法人或者非法人组织已经发表的以国家通用语言文字创作的作品翻译成少数民族语言文字作品在国内出版发行；
+
+（十二）以阅读障碍者能够感知的无障碍方式向其提供已经发表的作品；
+
+（十三）法律、行政法规规定的其他情形。
+```
+
+
+NCNA遵守中华人民共和国著作权法第二十四条的一 二 六 八 九
+
+
+（简单人话版本） 你使用NCNA收听[我](https://music.163.com/#/artist?id=55068367)的[作品](https://music.163.com/song?id=2007783930) 并且使用了**免费的低音质**
+
+你已经遵守了第一 第二 第九条  
+
+我使用 GitHub和gitee进行保存 遵守了第八条
+
+
 
 
 ## 灵感来自
@@ -20,6 +68,8 @@
 [sqaiyan/netmusic-node](https://github.com/sqaiyan/netmusic-node)
 
 [greats3an/pyncm](https://github.com/greats3an/pyncm)
+
+
 
 
 ## 环境要求
